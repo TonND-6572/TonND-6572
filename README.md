@@ -4,8 +4,8 @@
 - 🌱 Exploring Hadoop, Spark, ETL processes, and web scraping.
 - 📫 Connect with me:
    - 🔗 [LinkedIn](https://www.linkedin.com/in/nguyenductoan040402)
-   - 📱  Zalo: 0375325687
    - 🌐 [Facebook](https://www.facebook.com/profile.php?id=100008166552114)
+   - 📱  Zalo: 0375325687
   
 <!---
 TonND-6572/TonND-6572 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
