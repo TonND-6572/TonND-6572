@@ -3,8 +3,8 @@
 - 🎓 Currently a student at Ho Chi Minh University of Technology and Education, graduating in 2025.
 - 🌱 Exploring Hadoop, Spark, ETL processes, and web scraping.
 - 📫 Connect with me:
-   - 🔗 [LinkedIn](https://www.linkedin.com/in/nguyenductoan040402)
-   - 📱  Zalo: 0375325687
+   - 🔗 [LinkedIn](https://www.linkedin.com/in/nguyenductoan040402)
+   - 📱  Zalo: 0375325687
    - 🌐 [Facebook](https://www.facebook.com/profile.php?id=100008166552114)
   
 <!---
